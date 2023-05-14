@@ -1,4 +1,4 @@
-package org.example;
+package org.example.abstractfactory;
 
 public class GardenCreatorFactory {
     public static AbstractGardenCreator createGardenCreator(String gardenType) {

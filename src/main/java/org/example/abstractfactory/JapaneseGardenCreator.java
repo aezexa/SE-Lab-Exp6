@@ -1,4 +1,4 @@
-package org.example;
+package org.example.abstractfactory;
 
 public class JapaneseGardenCreator implements AbstractGardenCreator {
     @Override

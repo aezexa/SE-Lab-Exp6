@@ -1,4 +1,4 @@
-package org.example;
+package org.example.abstractfactory;
 
 public interface AbstractGardenCreator {
     Tree createTree();
